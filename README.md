@@ -1,2 +1,2 @@
 # RecyclerViewExample
-RecyclerViewExample
+RecyclerView Swipe Example
